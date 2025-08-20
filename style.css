@@ -2,13 +2,11 @@ header{
     background-color: rgb(208, 205, 205);
 }
 .img{
-    width: 473px;
-    height: 376px;
+    
+    object-fit: cover;
+    object-position: center;
 }
-.img2ndgrid{
-    width: 600px;
-    height: 400px;
-}
+
 .header1stphoto{
     width: 600px;
     height: 40px;
