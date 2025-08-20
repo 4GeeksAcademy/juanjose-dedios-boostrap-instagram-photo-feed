@@ -1,44 +1,15 @@
 header{
     background-color: rgb(208, 205, 205);
 }
-.img2{
+.img{
     width: 473px;
     height: 376px;
 }
-.img3{
-    width: 473px;
-    height: 376px;
-}
-.img4{
-    width: 473px;
-    height: 376px;
-}
-.img5{
-    width: 473px;
-    height: 376px;
-}
-.img6{
-    width: 473px;
-    height: 376px;
-}
-.img7{
-    width: 473px;
-    height: 376px;
-}
-.img8{
-    width: 473px;
-    height: 376px;
-}
-.img9{
-    width: 473px;
-    height: 376px;
-}
-.dog-photo{
+.img2ndgrid{
     width: 600px;
     height: 400px;
 }
 .header1stphoto{
-    display: flex;
     width: 600px;
     height: 40px;
 }
@@ -56,10 +27,6 @@ header{
     width: 600px;
     height: 40px;
 }
-.photo2nd img{
-    width: 600px;
-    height: 400px;
-}
 .text2nd{
     width: 600px;
     height: 100px;
@@ -70,10 +37,6 @@ header{
 .header3rdphoto{
     width: 600px;
     height: 40px;
-}
-.photo3rd img{
-    width: 600px;
-    height: 400px;
 }
 .text3rd{
     width: 600px;
