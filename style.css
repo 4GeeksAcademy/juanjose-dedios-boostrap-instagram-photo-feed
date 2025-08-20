@@ -6,37 +6,3 @@ header{
     object-fit: cover;
     object-position: center;
 }
-
-.header1stphoto{
-    width: 600px;
-    height: 40px;
-}
-.header1stphoto p{
-    margin-left: 300px;
-}
-.text1st{
-    width: 600px;
-    height: 100px;
-}
-.header2ndphoto p{
-    margin-left: 270px;
-}
-.header2ndphoto{
-    width: 600px;
-    height: 40px;
-}
-.text2nd{
-    width: 600px;
-    height: 100px;
-}
-.header3rdphoto p{
-    margin-left: 350px;
-}
-.header3rdphoto{
-    width: 600px;
-    height: 40px;
-}
-.text3rd{
-    width: 600px;
-    height: 100px;
-}
